@@ -12,6 +12,8 @@ Os scripts serão desenvolvidos em um projeto já construído com html e css, qu
 ## 📁 Acesso ao projeto
 Você pode acessar o projeto clicando [aqui](https://alura-consumindo-dados-api.vercel.app/).
 
+![apresentacao-alura-api840](https://github.com/CamilaSah/alura-consumindo-dados-api/assets/128820692/f8a3e032-6bd2-4aa7-a32a-e412d0654238)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 Técnicas utilizadas:
