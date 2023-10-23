@@ -10,7 +10,7 @@ Os scripts serão desenvolvidos em um projeto já construído com html e css, qu
 - `Preencher os campos do endereço automaticamente`: quando o usuário digitar o CEP e clicar fora, os campos de rua, bairro, cidade e estado serão preenchidos automaticamente.
 
 ## 📁 Acesso ao projeto
-Você pode acessar o projeto clicando [aqui]
+Você pode acessar o projeto clicando [aqui](https://alura-consumindo-dados-api.vercel.app/).
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
