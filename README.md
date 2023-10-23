@@ -49,7 +49,7 @@ Gostou do projeto e quer conhecer mais? Você pode acessar o curso que me ajudou
 Busque na plataforma da Alura o curso da escola Front-end:
 - [JavaScript: consumindo e tratando dados de uma API](https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api).
 
-Esse curso faz parte da formação [Desenvolva aplicações Web com JavaScript](https://cursos.alura.com.br/formacao-javascript-front-end](https://cursos.alura.com.br/formacao-javascript-front-end-v663575) da Alura
+Esse curso faz parte da formação [Desenvolva aplicações Web com JavaScript](https://cursos.alura.com.br/formacao-javascript-front-end-v663575) da Alura
 
 # Autores
 
